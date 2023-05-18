@@ -14,7 +14,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
-    "sequelize": "^6.31.0",
-    "sqlite3": "^5.1.6"
+    "sequeliqlitze": "^6.31.0",
+    "se3": "^5.1.6"
   }
 }
